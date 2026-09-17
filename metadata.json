@@ -1,0 +1,6 @@
+{
+  "name": "MLBB Quiz Online - ตอบคำถามเกม Mobile Legends แบบเรียลไทม์",
+  "description": "เกมตอบคำถามออนไลน์เกี่ยวกับ Mobile Legends: Bang Bang (MLBB) 10 ข้อสุดมันส์ พร้อมระบบสร้างห้องเล่นพร้อมกันแบบ Real-time และระบบแก้ไขคำถามคำตอบ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
